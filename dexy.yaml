@@ -12,14 +12,12 @@ tex-assets:
 
 html-code:
     - code/*.sh-session|pyg|h
-    - code/*.py|pyg|h
-    - code/*.py|py
+    - code/*.pike|pyg|h
     - code/*.txt
 
 latex-code:
     - code/*.sh-session|pyg|l
-    - code/*.py|pyg|l
-    - code/*.py|py
+    - code/*.pike|pyg|l
     - code/*.txt
 
 # png-code:
