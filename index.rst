@@ -14,12 +14,12 @@ Table Of Contents
 * `Exercise 3: Maths and Numbers <ex3.html>`_
 * `Exercise 4: Variables <ex4.html>`_
 * `Exercise 5: Basic Types <ex5.html>`_
-* `Exercise 6: Integers <ex6.html>`_
+* `Exercise 6: Integers and Floats <ex6.html>`_
 * `Exercise 7: Strings <ex7.html>`_
-* `Exercise 8: Mappings <ex8.html>`_
-* `Exercise 9: Arrays <ex9.html>`_
-* `Exercise 10: MultiSet <ex10.html>`_
-* `Exercise 11 <ex11.html>`_
+* `Exercise 8: Arrays <ex8.html>`_
+* `Exercise 9: Mappings <ex9.html>`_
+* `Exercise 10: MultiSets <ex10.html>`_
+* `Exercise 11 Objects and Programs <ex11.html>`_
 * `Exercise 12: Functions <ex12.html>`_
 * `Exercise 13: More Strings <ex13.html>`_
 * `Exercise 14: Even more Strings <ex14.html>`_
@@ -39,7 +39,7 @@ Table Of Contents
 * `Exercise 28: Breaking out continue <ex28.html>`_
 * `Exercise 29: Breaking out return <ex29.html>`_
 * `Exercise 30: Operators <ex30.html>`_
-* `Exercise 31 <ex31.html>`_
+* `Exercise 31: Exceptions <ex31.html>`_
 * `Exercise 32 <ex32.html>`_
 * `Exercise 33 <ex33.html>`_
 * `Next Steps <next.html>`_
