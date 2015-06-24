@@ -2,25 +2,19 @@
 Exercise 0: The Setup
 *********************
 
-This is how you setup your computer to work through this book.  Here's an example of including
-some code:
+Download
+********
 
-{{ ork.code('code/ex0.py|pyg') }}
+http://pike.lysator.liu.se/download/pub/pike/all/
 
-Here is what the output of that program would look like::
+Install
+*******
 
-    {{ d['code/ex0.py|py']|indent(4) }}
-
-And here's an example of including a basic text file::
-
-    {{ d['code/ex0.txt']|indent(4) }}
-
-Here's an example writing some code inline:
+Hilfe
+*****
 
 ::
 
-    make ex0
-    make ex0
-    ./ex0
-
-
+  $ pike
+  Pike v7.8 release 700 running Hilfe v3.5 (Incremental Pike Frontend)
+  > _
