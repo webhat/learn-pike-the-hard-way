@@ -13,7 +13,7 @@ Table Of Contents
 * `Exercise 2: Comments <ex2.html>`_
 * `Exercise 3: Maths and Numbers <ex3.html>`_
 * `Exercise 4: Variables <ex4.html>`_
-* `Exercise 5: Basic Types <ex5.html>`_
+* `Exercise 5: Types Overview <ex5.html>`_
 * `Exercise 6: Integers and Floats <ex6.html>`_
 * `Exercise 7: Strings <ex7.html>`_
 * `Exercise 8: Arrays <ex8.html>`_
@@ -24,7 +24,7 @@ Table Of Contents
 * `Exercise 13: More Strings <ex13.html>`_
 * `Exercise 14: Even more Strings <ex14.html>`_
 * `Exercise 15: More Functions <ex15.html>`_
-* `Exercise 16: Labmda Functions <ex16.html>`_
+* `Exercise 16: Lambda Functions <ex16.html>`_
 * `Exercise 17: Even More Functions <ex17.html>`_
 * `Exercise 18: Class <ex18.html>`_
 * `Exercise 19: Modules <ex19.html>`_
