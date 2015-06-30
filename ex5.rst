@@ -1,6 +1,6 @@
 {% import "macros/ork.jinja" as ork with context %}
-Exercise 5 Types
-****************
+Exercise 5 Types Overview
+*************************
 
 In pike there are basic types, container types and reference types.
 
@@ -63,9 +63,9 @@ The first basic type, which we saw in the previous exercise is the Integer `int`
   > write(sprintf("%d\n", x));
   1
 
-*****
+=====
 float
-*****
+=====
 
 A `float` stands for floating point, which is any number with a period in it: `0.3`, `10.0` or `3.14`. Floating points are not always accurate up to a very deep level.
 
@@ -112,13 +112,25 @@ Enclosing more that one character between single quotes will throw the following
 string
 ======
 
-A `string` value is build up out of characters.
+A `string` value is an `array` of characters.
 
 ====
 bool
 ====
 
 A `bool` is a boolean value, it is either `true` (`1`) or `false` (`0`).
+
+========
+constant
+========
+
+A `constant` defines a variable that can be set once.
+
+====
+void
+====
+
+Lastly `void`, which isn't a type at all. In fact it's explicitly no type. This is used in `functions` to indicate that no value is returned from the function.
 
 Container Types
 ***************
