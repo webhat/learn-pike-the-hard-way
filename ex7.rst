@@ -24,6 +24,7 @@ minus
 =====
 
 ::
+
   > "abcdef"-"a";
 
   Result: "bcdef"
@@ -38,6 +39,7 @@ multiply
 ========
 
 ::
+
   > "a"*10;
 
   (9) Result: "aaaaaaaaaa"
@@ -48,6 +50,7 @@ divide
 ======
 
 ::
+
   > "abcdef"/"";
 
   Result: ({ /* 6 elements */ "a", "b", "c", "d", "e", "f" })
@@ -69,6 +72,7 @@ Comparison
 ==========
 
 ::
+
   a == b
   a != b
   a > b
@@ -82,6 +86,7 @@ Bitwise Operators
 =================
 
 ::
+
   a << b
   a >> b
   ~ a
@@ -95,6 +100,7 @@ Indexing
 ========
 
 ::
+
   a [ b ]
   a [ b ] = c	
   a [ b .. c ]
@@ -106,6 +112,7 @@ Assignment
 ==========
 
 ::
+
   variable += expression  variable = variable + expression 
   variable -= expression  variable = variable - expression
   variable *= expression  variable = variable * expression
